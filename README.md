@@ -1,5 +1,4 @@
 # css.emilio
 Pagina para css
 
-* [hoja_externa_css](hoja_externa_css.html)
-* [hoja_interna_css](hoja_interna_css.html)
+* [ejer1](ejer1/ejer1.md)
