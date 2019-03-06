@@ -1,0 +1,16 @@
+div.cabecera {
+	background-color: #3A5A0E;
+	font-size: 14;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+div.parrafo {
+	background-color: #BFF2CC;
+	font-size: 12;
+	border-width: 0px 0px 1px 1px;
+	border-style: solid;
+	border-color: #3A5A0E;
+	padding: 8px
+}
