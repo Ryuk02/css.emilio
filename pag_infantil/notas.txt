@@ -1,0 +1,17 @@
+DIA 1:
+Las chicas nos explican su proyecto; una granja escuela. Nos dicen su ubucacion, 
+que modelo de negocio llevarán, ect.
+
+DIA 2:
+Les presentamos a las chicas 2 paginas web sencillas para que puedan elegir
+y decirnos con cuál se quedan y que cambiar o añadir. 
+
+DIA 3:
+Les entregamos la pagina y les gusta mucho. les enseñamos a admiistrar las
+entradas en el blog de la pagina.
+
+P.D: La pagina tiene un apartado "Contactos" que funciona de verdad con un
+plugin SMTP y otro para formularios que nos envía los datos que introducen 
+al correo de la pagina.
+También en el apartado "Ubicacion" tiene un mapa de google funcional apuntando 
+a la supuesta hubicación de la granja escuela.
