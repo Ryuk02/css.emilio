@@ -7,3 +7,4 @@ Pagina para css
 * [ejer4](ejer4/ejer4.md)
 * [ejer5](ejer5/ejer5.md)
 * [ejer6](ejer6/ejer6.md)
+* [pag_infantil](pag_infantil/infantil.md)
